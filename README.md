@@ -1,4 +1,4 @@
-# W-University_Homepage_1
+# WPR-University_Homepage_1
 <ul>
 <li>This is a very simple responsive homepage for a university website using HTML , CSS and JavaScript. </li>
 <li>
